@@ -1,7 +1,7 @@
 public class Shape {
     protected Point aPoint;
     public Shape(){
-        aPoint = new Point();
+
     }
 
     public Shape(Point aPoint) {

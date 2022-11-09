@@ -1,8 +1,7 @@
 public class Point {
     private double x_coord, y_coord;
     public Point() {
-        x_coord = 0;
-        y_coord = 0;
+
     }
 
     public Point(double x_coord, double y_coord) {
